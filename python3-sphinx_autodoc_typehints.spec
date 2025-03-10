@@ -8,7 +8,7 @@ Name:		python3-sphinx_autodoc_typehints
 # 1.19.3+ uses hatchling instead of setuptools
 # 1.19.2 requires Sphinx>=5.1.1
 Version:	1.19.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx_autodoc_typehints/
